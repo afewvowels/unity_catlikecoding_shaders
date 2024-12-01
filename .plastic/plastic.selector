@@ -1,0 +1,4 @@
+repository "unity_catlikecoding_shaders/unity_catlikecoding_shaders@1802099@cloud"
+  path "/"
+    br "/main"
+    co "/main"
